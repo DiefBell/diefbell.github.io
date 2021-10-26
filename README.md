@@ -2,4 +2,4 @@
 
 ### Here is some test information!
 
-[Here's a link](/MD25)
+[Here's a link](diefbell.github.io/MD25)
